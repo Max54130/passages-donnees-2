@@ -1,0 +1,2791 @@
+{
+"europeen-flixbus-et-flixtrain": {
+"name": "Européen FlixBus et FlixTrain",
+"title": "Réseau européen FlixBus et FlixTrain",
+"city": "France",
+"area": [
+"pays"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/30d94e83-48a4-4c44-8a96-c082377f5221",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/017cd03c-5478-42e5-9ff3-60cba9ada1ac",
+"src": "https://transport.data.gouv.fr/datasets/flixbus-horaires-theoriques-du-reseau-europeen-1"
+},
+"isere-38": {
+"name": "- Isère (38)",
+"title": "Réseau interurbain - Isère (38)",
+"city": "Isère",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/40ee9d6c-3bb9-409e-b670-986212de63f2",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/2ded65d2-0a8a-4f8b-95e7-71adbce8e939",
+"src": "https://transport.data.gouv.fr/datasets/reseau-interurbain-cars-region-isere-38-1"
+},
+"lio-occitanie": {
+"name": "LiO Occitanie",
+"title": "Réseau interurbain liO Occitanie",
+"city": "Occitanie",
+"area": [
+"region"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/d747fe79-2915-4cdd-8cc5-51a810baaca5",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/5bcc6b45-c538-4410-a752-8f32b54eb857",
+"src": "https://transport.data.gouv.fr/datasets/reseau-lio-occitanie"
+},
+"bordeaux": {
+"name": "TBM",
+"title": "Réseau urbain et scolaire TBM",
+"city": "Bordeaux",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/10b87ffe-e6bb-494d-93df-bb6019e223d9",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/bd01907f-4756-43f4-8eb3-6a9650d6e4b5",
+"src": "https://transport.data.gouv.fr/datasets/offres-de-services-bus-tram-et-scolaire-au-format-gtfs-netex-gtfs-rt-siri-lite"
+},
+"nantes": {
+"name": "Naolib",
+"title": "Réseau urbain Naolib",
+"city": "Nantes",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/65bdd7e4-a8e7-4a54-893a-808e71c34d68",
+"rt": "https://proxy.transport.data.gouv.fr/resource/naolib-nantes-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/reseau-de-transports-collectifs-naolib"
+},
+"tadao": {
+"name": "TADAO",
+"title": "Réseau urbain TADAO",
+"city": "CA de Lens - Liévin",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/47a5e290-7883-4a40-bdcf-b693f64087b0",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/c4563dcc-f547-489a-b63a-efb4dbb37262",
+"src": "https://transport.data.gouv.fr/datasets/gtfs-tadao"
+},
+"fluo-grand-est": {
+"name": "Fluo Grand-Est",
+"title": "Réseau interurbain Fluo Grand-Est",
+"city": "Grand Est",
+"area": [
+"region"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/83635/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-du-reseau-de-transport-interurbain-fluo-grand-est"
+},
+"aleop-pays-de-la-loire": {
+"name": "Aléop - Pays de la Loire",
+"title": "Réseau interurbain Aléop - Pays de la Loire",
+"city": "Pays de la Loire",
+"area": [
+"region"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/916752e4-5daa-48bd-8bc1-4dd8d64f1d4a",
+"rt": "https://proxy.transport.data.gouv.fr/resource/aleop-pdl-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-circuits-des-lignes-de-transports-aleop-1"
+},
+"rennes": {
+"name": "STAR",
+"title": "Réseau urbain STAR",
+"city": "Rennes",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/0644f537-575e-4cce-9570-06165d6f3b27",
+"rt": "https://proxy.transport.data.gouv.fr/resource/star-rennes-integration-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/versions-des-horaires-theoriques-des-lignes-de-bus-et-de-metro-du-reseau-star-dans-les-formats-gtfs-et-netex-ainsi-que-les-urls-dacces-au-gtfs-rt-1"
+},
+"toulouse": {
+"name": "Tisséo",
+"title": "Réseau urbain Tisséo",
+"city": "Toulouse",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/64318177-f5b5-4144-a6be-2d0f22d26c77",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/b2343456-4e73-4e5e-bf0f-e8cab63357a8",
+"src": "https://transport.data.gouv.fr/datasets/tisseo-reseau-transport-urbain-toulousain",
+"alt": [
+"CA Le Muretain Agglo",
+"CA du Sicoval",
+"CC Le Grand Ouest Toulousain",
+"CC des Coteaux Bellevue",
+"Toulouse Métropole"
+]
+},
+"ardeche-07": {
+"name": "- Ardèche (07)",
+"title": "Réseau interurbain - Ardèche (07)",
+"city": "Ardèche",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/4e69fff6-6ae5-4ac0-9fa4-9c24ac92f291",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-interurbain-cars-region-ardeche-07"
+},
+"lille": {
+"name": "Ilévia",
+"title": "Réseau urbain ilévia",
+"city": "Lille",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/c9e5dd3f-8eed-4ad7-aec2-915240599cf6",
+"rt": "https://proxy.transport.data.gouv.fr/resource/ilevia-lille-gtfs-rt",
+"src": "https://transport.data.gouv.fr/datasets/ilevia-localisation-des-arrets-bus-metro-et-tram-gtfs"
+},
+"express-zou": {
+"name": "Express ZOU !",
+"title": "Réseau interurbain Express ZOU !",
+"city": "Région Sud — Provence-Alpes-Côte d’Azur",
+"area": [
+"region"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/1164d75b-4a9f-4c5a-b765-31d861b34fda",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/2a41e875-bec6-45d2-ac20-6cc4c06266cc",
+"src": "https://transport.data.gouv.fr/datasets/lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-express-3-3"
+},
+"drome-26": {
+"name": "- Drôme (26)",
+"title": "Réseau interurbain et scolaire - Drôme (26)",
+"city": "Drôme",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/fda59af2-0eb3-4a8a-8e59-593f768f836a",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-interurbain-et-scolaire-cars-region-drome-26"
+},
+"lignes-d-azur": {
+"name": "Lignes d'Azur",
+"title": "Réseau urbain Lignes d'Azur",
+"city": "Métropole Nice Côte d'Azur",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/f5678ab2-c863-4b48-ba1f-9021c7d97634",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/af3f0734-ef07-468e-b8c9-aed97e4c8a32",
+"src": "https://transport.data.gouv.fr/datasets/donnees-statiques-et-dynamiques-du-reseau-de-transport-lignes-dazur"
+},
+"kiceo": {
+"name": "Kicéo",
+"title": "Réseau urbain Kicéo",
+"city": "CA Golfe du Morbihan - Vannes Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/565533c0-64ae-44d6-9dfa-169be5b805c6",
+"rt": "https://proxy.transport.data.gouv.fr/resource/kiceo-vannes-gtfs-rt",
+"src": "https://transport.data.gouv.fr/datasets/reseau-urbain-kiceo"
+},
+"loire-42": {
+"name": "- Loire (42)",
+"title": "Réseau interurbain - Loire (42)",
+"city": "Loire",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/d22ab458-e6b4-4334-96dc-18590a3d9e5d",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-interurbain-cars-region-loire-42"
+},
+"diviamobilites": {
+"name": "DiviaMobilités",
+"title": "Réseau urbain DiviaMobilités",
+"city": "Dijon Métropole",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/e0dbd217-15cd-4e28-9459-211a27511a34",
+"rt": "https://proxy.transport.data.gouv.fr/resource/divia-dijon-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/gtfs-diviamobilites"
+},
+"sncf": {
+"name": "SNCF (TGV, Intercités, TER)",
+"title": "Réseau SNCF TGV, Intercités et TER",
+"city": "France",
+"area": [
+"pays"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/9ae758ec-cd7a-40cd-a890-bb3963224942",
+"rt": "https://proxy.transport.data.gouv.fr/resource/sncf-gtfs-rt-trip-updates",
+"src": "https://transport.data.gouv.fr/datasets/horaires-sncf",
+"board": true,
+"head": "terminus"
+},
+"stas": {
+"name": "STAS",
+"title": "Réseau urbain STAS",
+"city": "Saint-Étienne Métropole",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/fc66b270-658c-4678-9794-229a1a8a4938",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/a414cd50-a9ea-4891-99ce-88e0fedd4411",
+"src": "https://transport.data.gouv.fr/datasets/horaires-du-reseau-stas"
+},
+"le-met": {
+"name": "Le Met'",
+"title": "Réseau urbain Le Met'",
+"city": "Metz Métropole",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/92af6161-1b1a-4e0b-8f60-d97f213d993a",
+"rt": "https://proxy.transport.data.gouv.fr/resource/lemet-metz-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/fichiers-gtfs-eurometropole-de-metz"
+},
+"lila-presqu-ile": {
+"name": "Lila Presqu'ile",
+"title": "Réseau urbain et scolaire Lila Presqu'ile",
+"city": "CA de la Presqu'île de Guérande Atlantique (Cap Atlantique)",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/83762/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/lila-presquile-cap-atlantique-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/reseau-urbain-scolaire-lila"
+},
+"solea": {
+"name": "Solea",
+"title": "Réseau urbain Solea",
+"city": "CA Mulhouse Alsace Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80787/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/solea-mulhouse-gtfs-rt",
+"src": "https://transport.data.gouv.fr/datasets/fr-200052264-t0014-0000-1"
+},
+"irigo": {
+"name": "Irigo",
+"title": "Réseau urbain Irigo",
+"city": "CU Angers Loire Métropole",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/32f30b64-33f7-43bb-9b6f-34c21c2f83a3",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/0a6d20c5-19b4-4e72-80bf-3875c2555a45",
+"src": "https://transport.data.gouv.fr/datasets/angers-loire-metropole-reseau-irigo-gtfs-gtfs-rt-siri"
+},
+"transvilles": {
+"name": "Transvilles",
+"title": "Réseau urbain Transvilles",
+"city": "CA Valenciennes Métropole",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/982e0826-4118-42d9-9b73-c3d3b455cd4f",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/74975bc9-525c-4ecd-b6cb-d1ca08863ba8",
+"src": "https://transport.data.gouv.fr/datasets/simouv-horaires-theoriques-format-gtfs-et-temps-reel-format-siri-transvilles-valenciennes",
+"alt": [
+"CA Valenciennes Métropole",
+"CA de la Porte du Hainaut"
+]
+},
+"de-pas-de-calais-62": {
+"name": "Pas-de-Calais (62)",
+"title": "Réseau scolaire de Pas-de-Calais (62)",
+"city": "Pas-de-Calais",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/deb2e6c8-fc48-4a11-b7d0-180f961fd4dc",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-62-pas-de-calais"
+},
+"filibus": {
+"name": "Filibus",
+"title": "Réseau Filibus",
+"city": "CA Chartres Métropole",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/8d4c3e5c-1702-4649-b47a-b16c6016dcc6",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/7e4b9d82-0863-4eaa-8051-a1dcf5e086f5",
+"src": "https://transport.data.gouv.fr/datasets/reseau-filibus"
+},
+"izilo": {
+"name": "Izilo",
+"title": "Réseau urbain Izilo",
+"city": "CA Lorient Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/c32dc40b-3538-4796-a6c6-fd239d6c1364",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/4f4169e8-6bc6-4492-aa9a-7543e74c6280",
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-izilo-format-gtfs-de-lorient-agglomeration"
+},
+"temo-b": {
+"name": "TeMo'b",
+"title": "Réseau urbain TeMo'b",
+"city": "CA Portes de France-Thionville",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80459/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/fluo-temob-thionville-gtfs-rt",
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-temob-syndicat-mixte-des-transports-urbains-thionville-fensch",
+"alt": [
+"CA Portes de France-Thionville",
+"CA du Val de Fensch",
+"CC Rives de Moselle",
+"CC de Cattenom et Environs",
+"CC de l'Arc Mosellan",
+"CC du Pays Haut Val d'Alzette"
+]
+},
+"pas-de-calais-62": {
+"name": "- Pas-de-Calais (62)",
+"title": "Réseau interurbain - Pas-de-Calais (62)",
+"city": "Pas-de-Calais",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/3e744287-1221-47fd-96e0-fa154e79c4f8",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-interurbain-62-pas-de-calais-1"
+},
+"mat": {
+"name": "MAT",
+"title": "Réseau urbain MAT",
+"city": "CA du Pays de Saint Malo Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/3bd31fbe-93f4-432d-ade7-ee8d69897880",
+"rt": "https://proxy.transport.data.gouv.fr/resource/mat-st-malo-gtfs-rt",
+"src": "https://transport.data.gouv.fr/datasets/reseau-urbain-mat"
+},
+"oise-60": {
+"name": "- Oise (60)",
+"title": "Réseau interurbain et scolaire - Oise (60)",
+"city": "Oise",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/67129a71-49d0-467d-b388-4672ab1d5593",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-60-oise-1"
+},
+"corolis": {
+"name": "Corolis",
+"title": "Réseau interurbain et TAD zonal Corolis",
+"city": "CA du Beauvaisis",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/191ae476-2ce8-48d7-bed2-b9cb93f63364",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/774a4d3c-3af0-4233-907e-b01543adb47c",
+"src": "https://transport.data.gouv.fr/datasets/donnees-theoriques-et-temps-reel-du-reseau-corolis-interurbain-communaute-dagglomeration-du-beauvaisis"
+},
+"de-l-aisne-02": {
+"name": "L'Aisne (02)",
+"title": "Réseau scolaire de l'Aisne (02)",
+"city": "Aisne",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/46fa1d25-72a8-40e2-849d-c08c096a44c7",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-02-aisne"
+},
+"cap-cotentin": {
+"name": "Cap Cotentin",
+"title": "Réseau urbain Cap Cotentin",
+"city": "CA du Cotentin",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/2e97c9b3-a59f-42dd-9b9e-a232fa771f21",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/c94af528-293f-406f-a96f-bf847bcb252a",
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-et-en-temps-reel-des-bus-et-autocars-circulant-sur-le-reseau-cap-cotentin"
+},
+"setram": {
+"name": "SETRAM",
+"title": "Réseau urbain SETRAM",
+"city": "CU Le Mans Métropole",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/dee9adc5-044c-4f68-9cd3-eefbdf7a6abd",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/45f2e7ad-2199-4e01-8626-8656a6f199ef",
+"src": "https://transport.data.gouv.fr/datasets/gtfs-du-reseau-des-transports-bus-et-tramway-setram-circulant-sur-le-territoire-le-mans-metropole"
+},
+"fluo-grand-est-ardennes-08": {
+"name": "Fluo Grand-Est - Ardennes (08)",
+"title": "Réseau interurbain Fluo Grand-Est - Ardennes (08)",
+"city": "Ardennes",
+"area": [
+"departement"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80413/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-fluo-grand-est-ardennes-08"
+},
+"orizo": {
+"name": "Orizo",
+"title": "Réseau urbain Orizo",
+"city": "CA du Grand Avignon (COGA)",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/40b26c33-9be2-47ea-a46c-8bda9f63273e",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/91b75e0a-4fed-4aad-a21c-0eafc76c58f5",
+"src": "https://transport.data.gouv.fr/datasets/reseau-orizo-grand-avignon"
+},
+"fluo-grand-est-meurthe-et-moselle-54": {
+"name": "Fluo Grand-Est - Meurthe-et-Moselle (54)",
+"title": "Réseau interurbain Fluo Grand-Est - Meurthe-et-Moselle (54)",
+"city": "Meurthe-et-Moselle",
+"area": [
+"departement"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80423/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-fluo-grand-est-meurthe-et-moselle-54"
+},
+"gironde-33": {
+"name": "- Gironde (33)",
+"title": "Réseau interurbain - Gironde (33)",
+"city": "Gironde",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/ba4be162-cc7f-4c7c-9d96-376a225e9045",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-gir-nva-m-1"
+},
+"dk-bus": {
+"name": "DK'BUS",
+"title": "Réseau urbain DK'BUS",
+"city": "CU de Dunkerque",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/f51fabfb-9d7a-44b7-bd03-d1032337fb80",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/39f7ea92-6ad5-4a02-ad14-4019ce4a8ecb",
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transports-reseau-dk-bus-de-la-communaute-urbaine-de-dunkerque-gtfs"
+},
+"envia": {
+"name": "Envia",
+"title": "Réseau urbain Envia",
+"city": "CA d'Arles-Crau-Camargue-Montagnette",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/52216d2f-072e-4b7d-af0c-15d8d4e98b09",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/af998ded-046f-458c-abb6-34eb110cad14",
+"src": "https://transport.data.gouv.fr/datasets/donnees-statiques-et-temps-reels-reseau-envia"
+},
+"synchro-bus": {
+"name": "Synchro Bus",
+"title": "Réseau urbain Synchro Bus",
+"city": "CA du Grand Chambéry",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/a81cdf4b-5a70-43c9-8803-cef0430ed170",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/fbd5179e-fb3c-4361-853e-6d868f9a42b5",
+"src": "https://transport.data.gouv.fr/datasets/arrets-et-horaires-theoriques-bus-temps-reel"
+},
+"artis": {
+"name": "Artis",
+"title": "Réseau urbain Artis",
+"city": "CU d'Arras",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/4ded8fb3-a38d-45c5-b4a7-a2f6ac17ba4f",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/058d6107-7dd7-4caf-a22d-127cb3f6e0e3",
+"src": "https://transport.data.gouv.fr/datasets/reseau-de-transport-artis"
+},
+"qub": {
+"name": "Qub",
+"title": "Réseau urbain Qub",
+"city": "CA Quimper Bretagne Occidentale",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/95530333-7002-401d-9d64-2829496d1c36",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/d3b095ca-4c32-43b4-bc34-c339c91a7b24",
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-et-du-reseau-de-transports-qub-transports-urbains-de-quimper-bretagne-occidentale"
+},
+"alterneo": {
+"name": "Alternéo",
+"title": "Réseau urbain Alternéo",
+"city": "CA CIVIS (Communauté Intercommunale des Villes Solidaires)",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80676/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/alterneo-civis-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/donnees-du-reseau-alterneo"
+},
+"ain-01": {
+"name": "- Ain (01)",
+"title": "Réseau interurbain - Ain (01)",
+"city": "Ain",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/723f0cc2-476a-464c-a40e-bf8686f7bd8d",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-interurbain-cars-region-ain-01"
+},
+"bibus": {
+"name": "Bibus",
+"title": "Réseau urbain Bibus",
+"city": "Brest Métropole",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/583d1419-058b-481b-b378-449cab744c82",
+"rt": "https://proxy.transport.data.gouv.fr/resource/bibus-brest-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-des-bus-et-tramways-circulant-sur-le-territoire-de-brest-metropole"
+},
+"sitac": {
+"name": "SITAC",
+"title": "Réseau urbain SITAC",
+"city": "CA Grand Calais Terres et Mers",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/5dcdb39b-aee3-4a0f-a9a9-be225f5a8b78",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/a6086d6b-049b-4fe8-b52a-4bdcf863db83",
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-aux-formats-gtfs-et-gtfs-rt-du-reseau-sitac",
+"alt": [
+"CA Grand Calais Terres et Mers",
+"Guînes"
+]
+},
+"semo": {
+"name": "SEMO",
+"title": "Réseau urbain et scolaire SEMO",
+"city": "CA Seine-Eure",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/81338/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/seine-eure-semo-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/semo-val-de-reuil-louviers-seine-eure-agglo"
+},
+"deux-sevres-79": {
+"name": "- Deux-Sèvres (79)",
+"title": "Réseau interurbain - Deux-Sèvres (79)",
+"city": "Deux-Sèvres",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/73b1b1ee-2b81-445f-8930-b95a2b28a81b",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-dse-nva-m-1"
+},
+"fluo-grand-est-haute-marne-52": {
+"name": "Fluo Grand-Est - Haute-Marne (52)",
+"title": "Réseau interurbain Fluo Grand-Est - Haute-Marne (52)",
+"city": "Haute-Marne",
+"area": [
+"departement"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/81989/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-fluo-grand-est-haute-marne-52"
+},
+"cantal-15": {
+"name": "- Cantal (15)",
+"title": "Réseau interurbain - Cantal (15)",
+"city": "Cantal",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/2053f06d-439c-43fe-87fb-528179a8502e",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-interurbain-cars-region-cantal-15"
+},
+"somme-80": {
+"name": "- Somme (80)",
+"title": "Réseau interurbain - Somme (80)",
+"city": "Somme",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/429d30fb-ba6e-4e90-ad82-6d589a98cbfd",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-interurbain-80-somme"
+},
+"carsud": {
+"name": "CarSud",
+"title": "Réseau urbain CarSud",
+"city": "CA du Sud",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/8f3642e3-9fc3-45ed-af46-8c532966ace3",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/146fe36f-16c5-44bc-ac1a-06c0fedcc4dd",
+"src": "https://transport.data.gouv.fr/datasets/referentiel-topologique-reseau-carsud"
+},
+"agglobus-2": {
+"name": "AggloBus",
+"title": "Réseau urbain AggloBus",
+"city": "CA Bourges Plus",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/ef2f826c-c1c6-4eb4-9da3-4c2f37b3afaf",
+"rt": "https://proxy.transport.data.gouv.fr/resource/agglobus-bourges-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/agglobus-offre-theorique-mobilite-reseau-urbain-de-bourges",
+"alt": [
+"CA Bourges Plus",
+"Fussy",
+"Pigny",
+"Saint-Florent-sur-Cher"
+]
+},
+"cars-region-express": {
+"name": "Cars Région Express",
+"title": "Réseau interurbain Cars Région Express",
+"city": "Auvergne-Rhône-Alpes",
+"area": [
+"region"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/c379471b-c554-4838-9c00-39d7ced7b53a",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-interurbain-cars-region-express"
+},
+"coralie": {
+"name": "Coralie",
+"title": "Réseau urbain Coralie",
+"city": "CA Concarneau Cornouaille Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/becd68ea-3e7a-4336-b14a-dc3bdcf493c2",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/coralie-concarneau-cornouaille-agglomeration-transport"
+},
+"chamonix": {
+"name": "Chamonix",
+"title": "Réseau urbain Chamonix",
+"city": "CC de la Vallée de Chamonix-Mont-Blanc",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/83a2f241-a0a4-4901-b77b-8a71572a9f6a",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/977dbe7b-37a6-447b-ba35-574042301471",
+"src": "https://transport.data.gouv.fr/datasets/gtfs-reseau-chamonix-mobilite"
+},
+"astrobus": {
+"name": "Astrobus",
+"title": "Réseau urbain Astrobus",
+"city": "CA Lisieux Normandie",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/82140/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/astrobus-lisieux-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/astrobus-lisieux-normandie"
+},
+"tilt": {
+"name": "Tilt",
+"title": "Réseau urbain Tilt",
+"city": "CA Lannion-Trégor Communauté",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/905a57b4-eb87-4c31-86cc-9a86deff09e0",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/efbce591-9baa-430d-a60b-6066d6d891cb",
+"src": "https://transport.data.gouv.fr/datasets/tilt-lannion-tregor-communaute"
+},
+"optymo": {
+"name": "Optymo",
+"title": "Réseau urbain Optymo",
+"city": "CA Grand Belfort",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/797c424e-7d28-4e65-84f6-6677e47d8a6e",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-circuits-et-horaires-du-reseau-optymo-de-belfort"
+},
+"sibra": {
+"name": "Sibra",
+"title": "Réseau urbain Sibra",
+"city": "CA du Grand Annecy",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/8b12f6db-9aa7-43dc-a179-013998a1c4c0",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transports-sibra-a-annecy-gtfs"
+},
+"sub": {
+"name": "Sub (Suburbains de Nancy)",
+"title": "Réseau urbain SUB - Nancy",
+"city": "Nancy",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80431/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/fluo-sub-nancy-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/fr-200052264-t0039-0000-1",
+"alt": [
+"CC Moselle et Madon",
+"CC des Pays du Sel et du Vermois",
+"CC du Bassin de Pompey",
+"Métropole du Grand Nancy"
+]
+},
+"tad-zonal-reseau-aleop-pays-de-la-loire": {
+"name": "TAD zonal réseau Aléop - Pays de la Loire",
+"title": "TAD zonal réseau Aléop - Pays de la Loire",
+"city": "CA Clisson Sèvre et Maine Agglo",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/7bc6edfa-d68c-4cc7-a1a5-a8b05fcae444",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/transports-a-la-demande-en-pays-de-la-loire-gtfs-flex-aleop",
+"alt": [
+"CA Clisson Sèvre et Maine Agglo",
+"CA Pornic Agglo Pays de Retz",
+"CC Châteaubriant-Derval",
+"CC Estuaire et Sillon",
+"CC Grand Lieu Communauté",
+"CC Loir-Lucé-Bercé",
+"CC Mayenne Communauté",
+"CC Sud Retz Atlantique",
+"CC d'Erdre et Gesvres",
+"CC des Coëvrons",
+"CC du Bocage Mayennais",
+"CC du Mont des Avaloirs"
+]
+},
+"start": {
+"name": "Start",
+"title": "Réseau scolaire Start",
+"city": "CA Thonon Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/7cbb883b-d0cb-4bc7-b2e0-7537afdbc86e",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/thonon-agglomeration-donnees-gtfs"
+},
+"montelibus": {
+"name": "Montelibus",
+"title": "Réseau urbain Montelibus",
+"city": "CA Montélimar Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/974cede8-3a14-4c7b-b94d-b2655c31932e",
+"rt": "https://proxy.transport.data.gouv.fr/resource/montelibus-montelimar-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/horaires-montelibus"
+},
+"axo": {
+"name": "AXO",
+"title": "Réseau urbain AXO",
+"city": "CA Creil Sud Oise",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/0676f78f-66f9-4d37-a67e-0944ac5164e3",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/353eac69-85e8-47ee-9e2c-a17a6146f966",
+"src": "https://transport.data.gouv.fr/datasets/donnees-theoriques-et-temps-reel-du-reseau-axo-communaute-dagglomeration-creil-sud-oise"
+},
+"s-star-t": {
+"name": "STAR'T",
+"title": "Réseaux urbains STAR'T",
+"city": "CA Thonon Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84108/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/start-horaires-du-reseau-de-lagglomeration-de-thonon"
+},
+"citalis": {
+"name": "CITALIS",
+"title": "Réseau urbain CITALIS",
+"city": "CA Intercommunale du Nord de la Réunion (CINOR)",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/fc065c47-8644-4941-a8ca-4d8322a45749",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/horaire-du-reseau-citalis"
+},
+"stibus": {
+"name": "STIBUS",
+"title": "Réseau urbain STIBUS",
+"city": "CA Maubeuge Val de Sambre",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84240/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/lot-gtfs-stibus"
+},
+"idelis": {
+"name": "Idelis",
+"title": "Réseau urbain Idelis",
+"city": "CA Pau Béarn Pyrénées",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/25c5caff-fb19-4358-bb83-7f18d320bea8",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/fichier-des-donnees-theoriques-du-reseau-idelis-au-format-gtfs"
+},
+"correze-19": {
+"name": "- Corrèze (19)",
+"title": "Réseau interurbain - Corrèze (19)",
+"city": "Corrèze",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/2b76718b-2ab0-4f95-8528-cce4bb6af4fe",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-cor-nva-m-1"
+},
+"de-la-zone-nord-cap-nord": {
+"name": "La zone Nord (CAP NORD)",
+"title": "Réseau urbain de la zone Nord (CAP NORD)",
+"city": "CA du Pays Nord Martinique",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/82481c27-2e52-40ef-a563-b011ba487ead",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/9c12856f-6303-49a9-bbd8-ed30c52414b4",
+"src": "https://transport.data.gouv.fr/datasets/gtfs-urbain-de-la-zone-nord-cap-nord"
+},
+"twisto": {
+"name": "Twisto",
+"title": "Réseau urbain Twisto",
+"city": "CU Caen la Mer",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/a5a8f046-e282-4010-91c5-82bc1f70ff73",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/caen-la-mer-reseau-twisto-gtfs-siri-3"
+},
+"ca-du-puy-en-velay": {
+"name": "CA du Puy-en-Velay",
+"title": "Réseau scolaire CA du Puy-en-Velay",
+"city": "CA du Puy-en-Velay",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84271/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/fichier-gtfs-des-transports-scolaires-de-la-communaute-dagglomeration-du-puy-en-velay"
+},
+"tad-reseau-mobilite-en-velay": {
+"name": "TAD réseau Mobilité en Velay",
+"title": "TAD réseau Mobilité en Velay",
+"city": "CA du Puy-en-Velay",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/4544fd3f-cf34-4bab-b6ff-e5ad89476347",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/fichier-gtfs-des-transports-a-la-demande-de-la-communaute-dagglomeration-du-puy-en-velay"
+},
+"bacs-de-loire-en-loire-atlantique-44": {
+"name": "Bacs de Loire en Loire-Atlantique (44)",
+"title": "Bacs de Loire en Loire-Atlantique (44)",
+"city": "Couëron",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/b2678aad-0d78-45f8-aa59-f78723ede272",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/horaires-des-bacs-de-loire-en-loire-atlantique-gtfs",
+"alt": [
+"Couëron",
+"Indre",
+"Le Pellerin"
+]
+},
+"tcl-2": {
+"name": "TCL",
+"title": "Réseau urbain TCL",
+"city": "CU Limoges Métropole",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/99e0887d-4855-47f7-a03b-a8235dfc86b7",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lim-nva-m-1"
+},
+"tad-zonal-reseau-tao-orleans": {
+"name": "TAD zonal réseau TAO Orléans",
+"title": "TAD zonal réseau TAO Orléans",
+"city": "Orléans Métropole",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/f884648b-d687-4448-bc4c-2fc988ea0aed",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/description-de-loffre-tad-tao-gtfs-flex-orleans-metropole"
+},
+"vienne-86": {
+"name": "- Vienne (86)",
+"title": "Réseau interurbain - Vienne (86)",
+"city": "Vienne",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/a70fab11-9ac9-481e-91c8-925e805741ba",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-vie-nva-m-1"
+},
+"imagine": {
+"name": "Imagine",
+"title": "Réseau urbain Imagine",
+"city": "CA d'Epinal",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80461/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/fluo-imagine-epinal-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/fr-200052264-t0009-0000-1"
+},
+"haute-vienne-87": {
+"name": "- Haute-Vienne (87)",
+"title": "Réseau interurbain - Haute-Vienne (87)",
+"city": "Haute-Vienne",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/8d1cc7f8-2b29-4844-b98c-4a5b35075d57",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-hvi-nva-m-1"
+},
+"eveole": {
+"name": "Eveole",
+"title": "Réseau urbain Eveole",
+"city": "CA Douaisis Agglo",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/99cf5e2f-87c2-4ff1-bc0d-32f04cc213ab",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/eveole-douai-reseau-bus-du-syndicat-mixte-des-transports-du-douaisis-smtd"
+},
+"karu-lis": {
+"name": "KARU'LIS",
+"title": "Réseau urbain KARU'LIS",
+"city": "CA CAP Excellence",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/ac89688b-252b-4b23-9e97-39226402cf2b",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/syndicat-mixte-des-transports-du-petit-cul-de-sac-marin",
+"alt": [
+"CA CAP Excellence",
+"CA La Riviéra du Levant"
+]
+},
+"tac-mobilite": {
+"name": "TAC Mobilité",
+"title": "Réseau urbain TAC Mobilité",
+"city": "CA Annemasse-Les Voirons-Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/373e19e2-af0a-4939-9f33-3f1268d1e0bb",
+"rt": "https://proxy.transport.data.gouv.fr/resource/tac-annemasse-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transports-reseau-tac-annemasse-agglo"
+},
+"navettes-saisonnieres-transaltitude-iser": {
+"name": "Navettes saisonnières Transaltitude - Isère",
+"title": "Navettes saisonnières Transaltitude - Isère",
+"city": "Isère",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/932fb155-53d5-4717-87e0-b42fe3aa538b",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/desserte-des-stations-de-ski-iseroises-transaltitude-38"
+},
+"europeen-eurostar": {
+"name": "Européen Eurostar",
+"title": "Réseau européen Eurostar",
+"city": "France",
+"area": [
+"pays"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/bfd97acd-63f3-4ea4-bfe8-70e4c7fd8d13",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/9c3a3d5c-a52c-451e-89c8-32822af20bee",
+"src": "https://transport.data.gouv.fr/datasets/eurostar-gtfs-plan-de-transport-et-temps-reel"
+},
+"trema-2": {
+"name": "Tréma",
+"title": "Réseau urbain Tréma",
+"city": "CA du Bocage Bressuirais",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/414c049b-323a-4a5c-b484-e3917a62f485",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-ca-du-bocage-bressuirais-1"
+},
+"distribus-2": {
+"name": "Distribus",
+"title": "Réseau urbain Distribus",
+"city": "CA Lamballe Terre et Mer",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/148bf3a3-792f-44e2-9757-e0cc0d83afae",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/9c744022-049a-4bb9-a97f-acfe6425d60a",
+"src": "https://transport.data.gouv.fr/datasets/reseau-urbain-distribus"
+},
+"sete-agglopole-mobilite": {
+"name": "Sète Agglopole Mobilité",
+"title": "Réseau urbain Sète Agglopole Mobilité",
+"city": "CA Sète Agglopôle Méditerranée",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/9402f130-ac11-4615-8494-a5c84fcdb78c",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/c417d4b1-323d-48f1-814a-b299bf4adfba",
+"src": "https://transport.data.gouv.fr/datasets/reseau-bus-sete-agglopole-mobilite"
+},
+"transcom": {
+"name": "Transcom",
+"title": "Réseau urbain Transcom",
+"city": "CA du Grand Cognac",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/7a0c4ec1-628d-4b72-b180-f0c2e750112f",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-cog-nva-m-1"
+},
+"compagnie-d-autobus-de-monaco": {
+"name": "Compagnie d'Autobus de Monaco",
+"title": "Réseau urbain Compagnie d'Autobus de Monaco",
+"city": "Monaco",
+"area": [
+"pays"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/2f510784-2957-48e3-b01c-b0e4f9938da7",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/gtfs-3"
+},
+"calibus": {
+"name": "Calibus",
+"title": "Réseau urbain Calibus",
+"city": "CA du Libournais",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/c521df03-4d5c-4b38-afee-ef6c0f43a491",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lib-nva-m-1"
+},
+"vitobus": {
+"name": "Vitobus",
+"title": "Réseau urbain Vitobus",
+"city": "CA Vitré Communauté",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/e808092a-936a-410b-b75c-df42a690be17",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/19c43179-d9c2-46b1-972b-508729e9cc5b",
+"src": "https://transport.data.gouv.fr/datasets/mova-ensemble-de-loffre-de-transport-collectif"
+},
+"evolity": {
+"name": "ÉvolitY",
+"title": "Réseau urbain évolitY",
+"city": "CA Pays de Montbéliard Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/b45aa8d8-4bd4-4528-99c7-acfc980fdb09",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/evolity-horaires-theoriques-de-transport-public"
+},
+"rubis-2": {
+"name": "Rubis",
+"title": "Réseau urbain Rubis",
+"city": "CA du Bassin de Bourg-en-Bresse",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/cd0ec3c7-431b-48df-bab5-269e5d5c05bb",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/rubis-horaires-theoriques-du-reseau-de-transport-urbain-de-grand-bourg-agglomeration"
+},
+"trema": {
+"name": "TréMA",
+"title": "Réseau urbain TréMA",
+"city": "CA Mâconnais Beaujolais Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/0a01b036-796f-43a3-9c64-a2f6024427b0",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-trema-gtfs"
+},
+"reso": {
+"name": "Réso",
+"title": "Réseau urbain Réso",
+"city": "CC du Pays Sabolien",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/2fc8108a-5b91-455a-8d10-1c938d360a9f",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/0fbf9dc8-d2db-405d-ade4-fdd04a6f8272",
+"src": "https://transport.data.gouv.fr/datasets/reseau-urbain-reso"
+},
+"rezo": {
+"name": "Rezo",
+"title": "Réseau urbain Rezo",
+"city": "CA du Grand Verdun",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80772/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/fluo-rezo-verdun-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/fr-200052264-t0011-0000-1"
+},
+"transavold": {
+"name": "Transavold",
+"title": "Réseau urbain Transavold",
+"city": "CA Saint-Avold Synergie",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/82413/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/fluo-transavold-saint-avold-gtfs-rt",
+"src": "https://transport.data.gouv.fr/datasets/fr-200052264-t0015-0000-1"
+},
+"tedbus": {
+"name": "TEDbus",
+"title": "Réseau scolaire TEDbus",
+"city": "CA Dracénie Provence Verdon Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84251/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-tedbus-lignes-scolaires-dracenie-provence-verdon-agglomeration"
+},
+"breizhgo-ter": {
+"name": "BreizhGo TER",
+"title": "Réseau interurbain BreizhGo TER",
+"city": "Bretagne",
+"area": [
+"region"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/b7a835d4-7a93-4d8b-87bd-c657800fc29f",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/breizhgo-ter"
+},
+"libeo": {
+"name": "Libéo",
+"title": "Réseau urbain Libéo",
+"city": "CA du Bassin de Brive",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/87a0b98b-8a5a-4ba7-ad93-5a1fb9924844",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-bri-nva-m-1"
+},
+"smtut": {
+"name": "SMTUT",
+"title": "Réseau urbain SMTUT",
+"city": "CC Thiers Dore et Montagne",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84032/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/smtut-horaires-des-bus-de-lagglomeration-de-thiers"
+},
+"peribus": {
+"name": "Péribus",
+"title": "Réseau urbain Péribus",
+"city": "CA Le Grand Périgueux",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/907e15b8-9a0c-4b00-b1b3-325ab1ac7d4c",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-per-nva-m-1"
+},
+"tra-mobilite": {
+"name": "TRA Mobilité",
+"title": "Réseau urbain TRA Mobilité",
+"city": "CA Arlysère",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84135/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/tra-mobilite-horaires-du-reseau-dalbertville"
+},
+"intercom": {
+"name": "Intercom",
+"title": "Réseau urbain Intercom",
+"city": "CA du Grand Sénonais",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/5f2edbfa-9025-467d-b769-80f4b1ec4ba6",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/horaires-du-reseau-de-bus-intercom-3"
+},
+"lineotim": {
+"name": "Linéotim",
+"title": "Réseau urbain Linéotim",
+"city": "CA Morlaix Communauté",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/6866358a-cb32-451b-8a88-067f704cc770",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/lineotim-morlaix-communaute"
+},
+"ogalo": {
+"name": "Ogalo",
+"title": "Réseau urbain Ogalo",
+"city": "CA Saumur Val de Loire",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/4c73f3c1-7f5a-4e38-b97d-75471bd47048",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/lignes-arrets-et-horaires-theorique-du-reseau-de-transport-gtfs-netex-saumur-val-de-loire-agglomeration"
+},
+"ar-bus": {
+"name": "Ar bus",
+"title": "Réseau urbain Ar bus",
+"city": "CA du Pays de Landerneau-Daoulas",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/80fc7c72-e21e-4458-a692-9da58db27566",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/613f9061-2d91-4a59-bc9b-26b69428ff87",
+"src": "https://transport.data.gouv.fr/datasets/ar-bus-landerneau-daoulas-transport"
+},
+"move": {
+"name": "Move",
+"title": "Réseau urbain Move",
+"city": "CA Territoires Vendômois",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/c85977b8-7d18-439c-935c-935286503003",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/68fc6b99-b51c-4a3c-9740-2edbc4a705bf",
+"src": "https://transport.data.gouv.fr/datasets/gtfs-move-vendome"
+},
+"mouveo-2": {
+"name": "Mouvéo",
+"title": "Réseau urbain Mouvéo",
+"city": "CA Epernay, Coteaux et Plaine de Champagne",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80443/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/fluo-mouveo-eprenay-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/fr-200052264-t0012-0000-1"
+},
+"fluo-grand-est-marne-51": {
+"name": "Fluo Grand-Est - Marne (51)",
+"title": "Réseau interurbain Fluo Grand-Est - Marne (51)",
+"city": "Marne",
+"area": [
+"departement"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80421/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-fluo-grand-est-marne-51"
+},
+"lot-et-garonne-47": {
+"name": "- Lot-et-Garonne (47)",
+"title": "Réseau interurbain - Lot-et-Garonne (47)",
+"city": "Lot-et-Garonne",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/bbf7ffef-9706-42e8-a3c8-7113168621d7",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lga-nva-m-1"
+},
+"du-pays-de-gex": {
+"name": "Pays de Gex",
+"title": "Réseau urbain du Pays de Gex",
+"city": "CA du Pays de Gex",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/95c73b12-d117-4faf-bb6f-abfe3c95eee1",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/transports-publics-urbains-sur-le-territoire-de-la-ca-du-pays-de-gex-1"
+},
+"pastel": {
+"name": "Pastel",
+"title": "Réseau urbain Pastel",
+"city": "CA du Saint-Quentinois",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/42e3ea9d-251e-47c1-988d-f7227f0e2d0f",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/bus-pastel-saint-quentin"
+},
+"arc-en-ciel-perimetre-caudresis-catesis": {
+"name": "Arc-en-ciel - Périmètre Caudrésis-Catésis",
+"title": "Réseau urbain Arc-en-ciel - Périmètre Caudrésis-Catésis",
+"city": "CA du Caudrésis et du Catésis",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/83396/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/gtfs-reseau-arc-en-ciel-secteur-nord-perimetre-caudresis-catesis"
+},
+"trace": {
+"name": "TRACE",
+"title": "Réseau urbain TRACE",
+"city": "CA Colmar Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80479/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/fr-200052264-t0004-0000-1"
+},
+"topaz": {
+"name": "- ToPAz",
+"title": "Réseau urbain et scolaire - ToPAz",
+"city": "CA Terre de Provence",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84230/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/donnees-gtfs-reseau-topaz"
+},
+"maelis": {
+"name": "Maelis",
+"title": "Réseau urbain Maelis",
+"city": "CA Montluçon Communauté",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/e8599784-71ba-4814-a905-4e215295109f",
+"rt": "https://proxy.transport.data.gouv.fr/resource/maelis-montlucon-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-et-reel-du-reseau-maelis-montlucon-communaute-gtfs"
+},
+"corolis-2": {
+"name": "Corolis",
+"title": "Réseau urbain Corolis",
+"city": "CA du Beauvaisis",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/2b8e53ce-a26c-4986-8d33-505e1b680bb4",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/aedbd2be-1ffb-45c4-88c2-7639712612aa",
+"src": "https://transport.data.gouv.fr/datasets/donnees-theoriques-et-temps-reel-du-reseau-corolis-urbain-communaute-dagglomeration-du-beauvaisis"
+},
+"navettes-saisonnieres-de-la-cc-du-guille": {
+"name": "Navettes saisonnières de la CC du Guillestrois et du Queyras",
+"title": "Navettes saisonnières de la CC du Guillestrois et du Queyras",
+"city": "CC du Guillestrois et du Queyras",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/bf92984d-4441-4cad-9879-b7209acba875",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-de-transports-collectifs-de-la-ccgq"
+},
+"nord-59": {
+"name": "- Nord (59)",
+"title": "Réseau interurbain et scolaire - Nord (59)",
+"city": "Nord",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/58babea3-fc7a-4e2d-be16-69936f10e81c",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-59-nord"
+},
+"jybus": {
+"name": "Jybus",
+"title": "Réseau urbain Jybus",
+"city": "CC Rumilly Terre de Savoie",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/9ba40024-aa3c-4e5c-b065-47eef0edf4e6",
+"rt": "https://proxy.transport.data.gouv.fr/resource/jybus-rumilly-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transports-jybus-a-rumilly"
+},
+"cote-bus": {
+"name": "Côte&Bus",
+"title": "Réseau urbain Côte&Bus",
+"city": "CA Beaune, Côte et Sud - Communauté Beaune-Chagny-Nolay",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/c00d487c-4766-4ca1-b736-e7de110331d9",
+"rt": "https://proxy.transport.data.gouv.fr/resource/beaune-cote-et-bus-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-de-la-c-a-beaune-cote-sud-gtfs"
+},
+"neva": {
+"name": "Néva",
+"title": "Réseau urbain Néva",
+"city": "CC de Granville, Terre et Mer",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/82721/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/neva-granville-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/neva-granville-terre-et-mer"
+},
+"libellus": {
+"name": "Libellus",
+"title": "Réseau urbain Libellus",
+"city": "CA de Castres Mazamet",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/70c9f936-129e-41f4-940a-8e6f272535d1",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-libellus-gtfs"
+},
+"lignes-de-covoiturage-m-covoit-lignes": {
+"name": "Lignes de covoiturage M covoit' Lignes+",
+"title": "Lignes de covoiturage M covoit' Lignes+",
+"city": "Grenoble-Alpes-Métropole",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/91dbf9cb-4ab2-42a3-9f40-0791a53d58d2",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-des-lignes-m-covoit-ligne-plus",
+"alt": [
+"CA du Pays Voironnais",
+"CC Le Grésivaudan",
+"Grenoble-Alpes-Métropole"
+]
+},
+"forbus": {
+"name": "Forbus",
+"title": "Réseau urbain Forbus",
+"city": "CA de Forbach Porte de France",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80467/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/fluo-forbus-forbach-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/fr-200052264-t0007-0000-1"
+},
+"estival": {
+"name": "Estival",
+"title": "Réseau urbain Estival",
+"city": "CA Intercommunale de la Réunion Est (CIREST)",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/3b659ebb-8c17-46f4-a8ac-78c4129a4a29",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/jeu-de-donnee-spl-estival-2025"
+},
+"r-bus": {
+"name": "R'Bus",
+"title": "Réseau urbain R'Bus",
+"city": "CA Rochefort Océan",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/0346e2ae-a004-40be-8ded-ffff9046d29d",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-roc-nva-m-1"
+},
+"trains-regionaux-zou-transdev-rail-sud-i": {
+"name": "Trains régionaux ZOU ! - Transdev Rail Sud Intermétropole",
+"title": "Trains régionaux ZOU ! - Transdev Rail Sud Intermétropole",
+"city": "Région Sud — Provence-Alpes-Côte d’Azur",
+"area": [
+"region"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/764d6d5b-d04e-4aa7-94b7-f8b2274d2964",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/74db080b-3d7c-4f30-8811-b344e79f4092",
+"src": "https://transport.data.gouv.fr/datasets/zou"
+},
+"zoom": {
+"name": "Zoom",
+"title": "Réseau urbain Zoom",
+"city": "CA Le Grand Chalon",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/f11a3766-1fe3-40ff-8d5a-27eacda3d9a7",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseauzoom-horaires-theoriques"
+},
+"u-vagabondu": {
+"name": "U Vagabondu",
+"title": "Réseau urbain U Vagabondu",
+"city": "CC Spelunca-Liamone",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84068/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/u-vagabondu"
+},
+"aravis-bus": {
+"name": "ARAVIS Bus",
+"title": "Réseau urbain ARAVIS Bus",
+"city": "CC des Vallées de Thônes",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/ef75d2f7-770c-4644-ad07-fdea7eef99ca",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/aravis-bus-hiver-2025-2026"
+},
+"des-chemins-de-fer-corse": {
+"name": "Chemins de fer Corse",
+"title": "Réseau interurbain des Chemins de fer Corse",
+"city": "Corse",
+"area": [
+"region"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/69c3db8a-a5fd-471f-b59f-46b9faded381",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/gtfs-transport-horaires-chemins-de-fer-corse-1"
+},
+"la-navette-oloron-sainte-marie": {
+"name": "La Navette Oloron Sainte-Marie",
+"title": "Réseau urbain La Navette Oloron Sainte-Marie",
+"city": "Oloron-Sainte-Marie",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/10bb8fff-521d-4b27-a85e-79ae704f1ccc",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/afee6b6e-2c3f-4317-9d0a-d70540acf8d8",
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-oloron-sainte-marie-la-navette-gtfs-gtfs-rt"
+},
+"sillages": {
+"name": "Sillages",
+"title": "Réseau urbain et scolaire Sillages",
+"city": "CA du Pays de Grasse",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/1580b34b-8ebe-42b1-b75c-a4ae41d579b7",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/lignes-regulieres-de-transports-sillages-en-pays-de-grasse-urbain-et-scolaire"
+},
+"elios": {
+"name": "Elios",
+"title": "Réseau urbain Elios",
+"city": "CA du Grand Villeneuvois",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/9248b0d3-3675-491b-8990-8058f0fdbcb5",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/elios-transports-urbains-du-grand-villeneuvois"
+},
+"via-bastia": {
+"name": "Via Bastia",
+"title": "Réseau urbain Via Bastia",
+"city": "CA de Bastia",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/ddbec19b-ed75-42f8-9205-573519298632",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/via-bastia-1"
+},
+"tudbus": {
+"name": "Tudbus",
+"title": "Réseau urbain Tudbus",
+"city": "CC Douarnenez Communauté",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/d30403b4-6ff8-4a37-a661-8220b18e3cc5",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/tudbus-douarnenez-communaute-transport"
+},
+"glazgo": {
+"name": "Glazgo",
+"title": "Réseau urbain Glazgo",
+"city": "CC Auray Quiberon Terre Atlantique",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/4dc52cb9-909e-40dd-80e5-a90073bc80fc",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/db7ab07b-daf3-4423-9884-d8d5c659dd13",
+"src": "https://transport.data.gouv.fr/datasets/reseau-urbain-glazgo"
+},
+"ole": {
+"name": "Olé",
+"title": "Réseau urbain Olé",
+"city": "CA Lunel Agglo",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/83852/download",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/693715b8-992c-43c3-a0e4-24666b713a40",
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-ole-lunel-agglo-gtfs-et-gtfs-rt"
+},
+"trans-sud": {
+"name": "Trans Sud",
+"title": "Réseau urbain Trans Sud",
+"city": "CA Grand Sud Caraïbe",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/cc0e964e-2021-4b2d-8bde-05c8b493a248",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/donnee-statistiques-transport"
+},
+"de-la-cc-jalle-eau-bourde": {
+"name": "La CC Jalle Eau Bourde",
+"title": "Réseau urbain de la CC Jalle Eau Bourde",
+"city": "CC Jalle-Eau-Bourde",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/6fa85772-cc88-43ae-88b9-290e2f9345ff",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-cc-jalles-eau-bourde"
+},
+"buss-2": {
+"name": "BUSS",
+"title": "Réseau urbain BUSS",
+"city": "CA \"Saintes - Grandes Rives - L'Agglo\"",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/33f62e9d-5495-413e-ae74-070e52ab51f7",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-sai-nva-m-1"
+},
+"transports-montalbanais": {
+"name": "Transports Montalbanais",
+"title": "Réseau urbain Transports Montalbanais",
+"city": "CA Grand Montauban",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/b3f5eb5a-002b-4394-af78-83ba9da1dace",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/gtfs-de-la-societe-de-transport-urbain-du-grand-montauban-semtm"
+},
+"mobi-vals": {
+"name": "Mobi'Vals",
+"title": "Réseau urbain Mobi'Vals",
+"city": "Valserhône",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/bdbc488f-d0fa-42ae-8e05-a1c291a9abdf",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/mobivals-horaires-theoriques-du-reseau-de-transport-urbain-de-valserhone"
+},
+"muvistrada": {
+"name": "Muvistrada",
+"title": "Réseau urbain Muvistrada",
+"city": "CA du Pays Ajaccien",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/5021a054-43c8-49b7-9166-832f2af6c8f0",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/information-sur-les-transports-en-commun"
+},
+"ficibus": {
+"name": "Ficibus",
+"title": "Réseau urbain Ficibus",
+"city": "CA Fécamp Caux Littoral Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/82311/download",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/b30879dc-089f-4213-8cf6-5f51afb28e4f",
+"src": "https://transport.data.gouv.fr/datasets/ficibus-fecamp-caux-littoral"
+},
+"colibri-2": {
+"name": "Colibri",
+"title": "Réseau urbain Colibri",
+"city": "CC de Miribel et du Plateau",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/dbd0bd0e-933a-4a21-8772-efdf41778e64",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/543f962e-3f4d-4bad-bb5e-7bac71f85aef",
+"src": "https://transport.data.gouv.fr/datasets/colibri-horaires-theoriques-et-temps-reel-du-reseau-de-transport-urbain-de-la-ccmp"
+},
+"fluo-grand-est-bas-rhin-67": {
+"name": "Fluo Grand-Est - Bas-Rhin (67)",
+"title": "Réseau interurbain Fluo Grand-Est - Bas-Rhin (67)",
+"city": "Bas-Rhin",
+"area": [
+"departement"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80417/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-fluo-grand-est-bas-rhin-67"
+},
+"le-37": {
+"name": "Le 37",
+"title": "Réseau urbain Le 37",
+"city": "CC Entre Bièvre et Rhône",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/83725/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/le-37-horaires-theoriques-du-reseau-de-transport-urbain-de-la-communaute-de-communes-entre-bievre-et-rhone"
+},
+"duobus": {
+"name": "Duobus",
+"title": "Réseau urbain Duobus",
+"city": "CA Haut-Bugey Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84112/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/duobus-horaires-du-reseau-doyonnax-01"
+},
+"cara-bus": {
+"name": "Cara'bus",
+"title": "Réseau urbain Cara'bus",
+"city": "CA Royan Atlantique",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/3af621da-a600-4da9-92c4-dfd994b22c31",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-car-nva-m-1"
+},
+"evidence": {
+"name": "Evidence",
+"title": "Réseau urbain Evidence",
+"city": "CA du Grand Cahors",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/a92df49e-1865-4c50-b05c-de4229c02b00",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/donnees-gtfs-du-reseau-de-transports-public-du-grand-cahors"
+},
+"pays-des-ecrins": {
+"name": "Pays des Ecrins",
+"title": "Réseau urbain Pays des Ecrins",
+"city": "CC du Pays des Ecrins",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/83467/download",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/252fd29f-4a13-4e38-9e9e-6d3c09e9bb5a",
+"src": "https://transport.data.gouv.fr/datasets/transports-en-commun-pays-des-ecrins"
+},
+"du-grand-albigeois": {
+"name": "Grand Albigeois",
+"title": "Réseau urbain du Grand Albigeois",
+"city": "CA de l'Albigeois (C2A)",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/79bc8313-3499-4bb3-a809-a8d80b44000a",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transports-du-grand-albigeois-gtfs"
+},
+"argentan-bus": {
+"name": "Argentan Bus",
+"title": "Réseau urbain Argentan Bus",
+"city": "CC Terres d'Argentan Interco",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/82315/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/argentanbus-argentan-intercom"
+},
+"sarlat-bus": {
+"name": "Sarlat Bus",
+"title": "Réseau urbain Sarlat Bus",
+"city": "Sarlat-la-Canéda",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/f1119940-adc5-4d2e-af7d-5535e50da539",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/1bffdcb5-1839-4725-90da-ca69d1ee05e6",
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-sarlatbus-gtfs-gtfs-rt"
+},
+"pass-o": {
+"name": "Pass'O",
+"title": "Réseau urbain Pass'O",
+"city": "CC du Pays de Sainte-Odile",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80439/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/fr-200052264-t0041-0000-1"
+},
+"s-de-la-metropole-aix-marseille-provence": {
+"name": "La Métropole Aix-Marseille-Provence",
+"title": "Réseaux urbains de la Métropole Aix-Marseille-Provence",
+"city": "Métropole d'Aix-Marseille-Provence",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/42b6ba26-f817-455b-8ba2-fa30c100fff4",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone"
+},
+"tub-2-2": {
+"name": "TUB",
+"title": "Réseau urbain TUB",
+"city": "CA de Bar-le-Duc - Sud Meuse",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80441/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/fluo-tub-bar-le-duc-gtfs-rt",
+"src": "https://transport.data.gouv.fr/datasets/fr-200052264-t0003-0000-1"
+},
+"papillon": {
+"name": "Papillon",
+"title": "Réseau urbain Papillon",
+"city": "CC Coeur de Loire",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/83859/download",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/60dde12f-09d6-49ec-86c5-300a59119488",
+"src": "https://transport.data.gouv.fr/datasets/donnees-du-reseau-de-bus-papillon-a-cosne-cours-sur-loire"
+},
+"coqueligo": {
+"name": "CoqueliGO",
+"title": "Réseau scolaire CoqueliGO",
+"city": "CA Annonay Rhône Agglo",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/df09ccf2-6cf5-4d7a-b03a-b3ebb89f7e49",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/gtfs-reseau-scolaire-coqueligo-annonay-rhone-agglo"
+},
+"lib-bus": {
+"name": "Lib'Bus",
+"title": "Réseau urbain Lib'Bus",
+"city": "CC du Pays Noyonnais",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/3074dfb5-2209-44b4-891a-a86694ecaeec",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/0610565a-91a6-4d83-8e2d-bd9c0cd241a8",
+"src": "https://transport.data.gouv.fr/datasets/donnees-theoriques-et-temps-reel-du-reseau-libbus-communaute-de-communes-du-pays-noyonnais"
+},
+"maritime-brittany-ferries": {
+"name": "Brittany Ferries",
+"title": "Réseau maritime Brittany Ferries",
+"city": "Caen",
+"area": [
+"commune"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/83427/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/horaires-des-traversees-brittany-ferries",
+"alt": [
+"Caen",
+"Cherbourg-en-Cotentin",
+"Le Havre",
+"Ouistreham",
+"Saint-Malo"
+]
+},
+"cars-region-loire-lignes-19-et-32": {
+"name": "Cars Région Loire - lignes 19 et 32",
+"title": "Cars Région Loire - lignes 19 et 32",
+"city": "CA Loire Forez Agglomération (LFA)",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84281/download",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/4c00d84c-a0c7-41d3-a20c-c58310b08ad0",
+"src": "https://transport.data.gouv.fr/datasets/flux-gtfs-realtime-des-lignes-cars-region-loire-l19-et-l32-fournis-par-pysae"
+},
+"lisatis": {
+"name": "LISATIS",
+"title": "Réseau urbain LISATIS",
+"city": "Lavaur",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/9364a3b9-6cc7-4543-a927-b31056d07eac",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/eb530fc3-b08f-42a2-a669-0eeeeecee32d",
+"src": "https://transport.data.gouv.fr/datasets/reseau-de-transport-urbain-lisatis"
+},
+"nemus": {
+"name": "Nemus",
+"title": "Réseau urbain Nemus",
+"city": "CA Flers Agglo",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/7d399812-e018-4e35-b3ae-a5ba44c8ad91",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/f8d5faf0-7662-41c1-97e2-dca45f77a3d6",
+"src": "https://transport.data.gouv.fr/datasets/donnees-theoriques-du-reseau-urbain-de-flers-agglo-au-format-gtfs"
+},
+"fil-bus": {
+"name": "Fil Bus",
+"title": "Réseau urbain Fil Bus",
+"city": "CC Haut Val de Sèvre",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84279/download",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/f6f6e693-f6ef-403d-aaee-f0479116cf7a",
+"src": "https://transport.data.gouv.fr/datasets/fil-bus-saint-maixentais"
+},
+"cvl-mobilite": {
+"name": "CVL Mobilité",
+"title": "Réseau urbain CVL Mobilité",
+"city": "CC Chinon, Vienne et Loire",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/6348dadb-600c-42c8-bbea-f6ac09505ed3",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/2c2bf555-2861-4e4e-8aa0-6636787cb2f9",
+"src": "https://transport.data.gouv.fr/datasets/reseau-cvlmobilite-plan-de-transport-theorique-ligne-a-format-gtfs"
+},
+"oleane": {
+"name": "Oléane",
+"title": "Réseau urbain Oléane",
+"city": "CA Les Sables d'Olonne Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/d5920d40-ea72-4e22-b506-2ca583950282",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/lignes-arrets-et-horaires-theorique-du-reseau-de-transport-gtfs-et-netex-les-sables-dolonne-agglomeration"
+},
+"tmco": {
+"name": "TMCO",
+"title": "Réseau urbain TMCO",
+"city": "CC du Centre-Ouest",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/83891/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/gtfs-reseau-de-transport-tmco-3co-mayotte"
+},
+"le-bus-2": {
+"name": "Le Bus",
+"title": "Réseau urbain Le Bus",
+"city": "CC du Bassin de Pont-à-Mousson",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80465/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/fluo-lebus-pontamousson-gtfs-rt",
+"src": "https://transport.data.gouv.fr/datasets/fr-200052264-t0023-0000-1"
+},
+"tub-2": {
+"name": "TUB",
+"title": "Réseau urbain TUB",
+"city": "CA Bergeracoise",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/f5437c89-50b3-4d35-8d38-be8b9417f7a0",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-ca-bergeracoise-1"
+},
+"tus": {
+"name": "TUS",
+"title": "Réseau urbain TUS",
+"city": "CA GrandSoissons Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/b66f3a43-2ba1-4b61-8459-439104582a92",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/transports-urbains-soissonnais-tus",
+"alt": [
+"CA GrandSoissons Agglomération",
+"CC Retz en Valois"
+]
+},
+"ca2bm": {
+"name": "CA2BM",
+"title": "Réseau urbain CA2BM",
+"city": "CA des Deux Baies en Montreuillois",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/db348d20-dc9a-48c7-8120-30afa160a921",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-ca2bm-a-compter-du-1er-juin-2025"
+},
+"mouv-enbus": {
+"name": "Mouv'enbus",
+"title": "Réseau urbain Mouv'enbus",
+"city": "CA de la Provence Verte",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/9e2f1dd8-cbf4-4e56-b022-b350561a1cb9",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-transport-mouv-enbus-agglomeration-provence-verte"
+},
+"yego": {
+"name": "Yégo",
+"title": "Réseau urbain Yégo",
+"city": "CC Maremne Adour Côte Sud",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/c5c0943e-0830-46ac-ba18-0d95a7227a4a",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-yego-macs"
+},
+"oz-car": {
+"name": "OZ'CAR",
+"title": "Réseau urbain OZ'CAR",
+"city": "CC Coeur du Var",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84190/download",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/4e0b1b0b-538f-463a-947a-aef63da8eeca",
+"src": "https://transport.data.gouv.fr/datasets/ozcar-navette-intercommunale"
+},
+"maritime-corsica-ferries": {
+"name": "Corsica Ferries",
+"title": "Réseau maritime Corsica Ferries",
+"city": "Corse",
+"area": [
+"region"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/b95d6838-1143-4653-840f-eebc33c16fa7",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/programme-des-rotations-corsica-ferries"
+},
+"maritime-yeu-continent": {
+"name": "Yeu-Continent",
+"title": "Réseau maritime Yeu-Continent",
+"city": "L'Île-d'Yeu",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/b57c66f2-ecaf-4934-a530-753bcb8aad04",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-circuit-de-la-lignes-yeu-continent-gtfs"
+},
+"trans-agglo": {
+"name": "Trans'Agglo",
+"title": "Réseau urbain et interurbain Trans'Agglo",
+"city": "CA Durance-Lubéron-Verdon Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/37f08652-500d-488e-a47f-8c9efc5ae704",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-de-transport-en-commun-trans-agglo-de-dlva"
+},
+"moca": {
+"name": "MOCA",
+"title": "Réseau urbain MOCA",
+"city": "CC Caux - Austreberthe",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/82309/download",
+"rt": "https://proxy.transport.data.gouv.fr/resource/moca-caux-austreberthe-gtfs-rt-trip-update",
+"src": "https://transport.data.gouv.fr/datasets/moca-communaute-de-communes-caux-austreberthe"
+},
+"tut": {
+"name": "TuT",
+"title": "Réseau urbain TuT",
+"city": "CA Tulle Agglo",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/79ab3997-524a-48a3-baec-9f40f37f7bd1",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-tut-nva-m-1"
+},
+"navette-saisonniere-meribus": {
+"name": "Navette saisonnière Méribus",
+"title": "Navette saisonnière Méribus",
+"city": "Les Allues",
+"area": [
+"commune"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/82682/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/meribus-ete"
+},
+"tungt": {
+"name": "TUNGT",
+"title": "Réseau urbain TUNGT",
+"city": "CA du Nord Grande Terre",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/dbfbff0f-46b6-44d5-a4d4-60d4ac645026",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-transport-urbain-du-nord-grande-terre-1"
+},
+"le-taco": {
+"name": "Le TACO",
+"title": "Réseau urbain Le TACO",
+"city": "CC Coeur du Var",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/5b2dfdce-8ab2-41b2-a318-65f884e3ead2",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/807dd36f-5813-487a-b410-20032bfbe3ad",
+"src": "https://transport.data.gouv.fr/datasets/le-taco-1"
+},
+"navettes-saisonnieres-gratibus": {
+"name": "Navettes saisonnières Gratibus",
+"title": "Navettes saisonnières Gratibus",
+"city": "CC de l'Ile de Noirmoutier",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/05625beb-8d5c-4996-a826-253dc6599a19",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/noirmoutier-gratibus-gtfs-gtfs-rt"
+},
+"may-bus": {
+"name": "May'bus",
+"title": "Réseau urbain May'bus",
+"city": "Mayenne",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/220e0fb8-fe04-4d99-9fca-cc812eaadfc3",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/6a1ef3cc-13cc-4770-a347-f183dc6accd6",
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-maybus-mayenne-gtfs-gtfs-rt"
+},
+"mobigo": {
+"name": "Mobigo",
+"title": "Réseau interurbain Mobigo",
+"city": "Bourgogne-Franche-Comté",
+"area": [
+"region"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/4001fba7-6078-4345-8859-f424b787c3a7",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte"
+},
+"navettes-saisonnieres-bourg-saint-mauric": {
+"name": "Navettes saisonnières Bourg-Saint-Maurice",
+"title": "Navettes saisonnières Bourg-Saint-Maurice",
+"city": "Bourg-Saint-Maurice",
+"area": [
+"commune"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/83626/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/navettes-bourg-saint-maurice"
+},
+"navette-estivale-andemu": {
+"name": "Navette estivale Andemu",
+"title": "Navette estivale Andemu",
+"city": "CA du Pays Ajaccien",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/7213015d-a5b6-429d-84e8-c8c01e4cb84e",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/andemu-gtfs-2025"
+},
+"transport-urbain-c-bus": {
+"name": "Transport urbain C'Bus",
+"title": "Transport urbain C'Bus",
+"city": "CC Châteaubriant-Derval",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84105/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/cbus-5"
+},
+"cmonbus-2": {
+"name": "Cmonbus",
+"title": "Réseau urbain Cmonbus",
+"city": "CA de Chaumont",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80410/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-cmonbus-communaute-dagglomeration-de-chaumont"
+},
+"ecla-mobilite": {
+"name": "ECLA Mobilité",
+"title": "Réseau urbain ECLA Mobilité",
+"city": "CA ECLA  (Espace Communautaire Lons Agglomération)",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/ec61df69-830c-4ca7-9d78-9a81c515e9de",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/ecla-lons-agglo-mobilites"
+},
+"agglo-bus": {
+"name": "Agglo'Bus",
+"title": "Réseau urbain agglo'Bus",
+"city": "CA du Grand Guéret",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/4b6bb4e3-86de-491c-8a0a-7892a02ccb60",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/agglobus"
+},
+"altigo": {
+"name": "Altigo",
+"title": "Réseau urbain et interurbain Altigo",
+"city": "CC du Briançonnais",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/3ee23301-f454-4175-ba53-4734c30d5245",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/donnees-de-transport-en-commun-reseau-altigo-communaute-de-communes-du-brianconnais-format-gtfs"
+},
+"saonibus": {
+"name": "Saônibus",
+"title": "Réseau urbain Saônibus",
+"city": "CC Dombes Saône Vallée",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/19a7a109-54c0-4a40-ab60-4d5ca43ce823",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/saonibus-horaires-theoriques-et-temps-reel-du-reseau-de-transport-urbain-de-la-cc-dsv"
+},
+"sud-sainte-baume": {
+"name": "Sud Sainte Baume",
+"title": "Réseau urbain Sud Sainte Baume",
+"city": "CA Sud Sainte Baume",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/050ef913-901c-49b7-babe-ef648e14314d",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/transport-urbain-sud-sainte-baume"
+},
+"navette-aeroport-de-bordeaux": {
+"name": "Navette Aéroport de Bordeaux",
+"title": "Navette Aéroport de Bordeaux",
+"city": "Bordeaux",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/4cb2f0a9-d3d8-402b-b0bb-afafb741e5f1",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/372463bd-d7b4-4668-a9b5-bd71a28f389d",
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-bordeaux-navettes-aeroport-30-direct-gtfs-gtfs-rt",
+"alt": [
+"Bordeaux",
+"Mérignac"
+]
+},
+"mio": {
+"name": "Mio",
+"title": "Réseau urbain Mio",
+"city": "CC de Millau Grands Causses",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/b1b9a7a6-1baf-4113-a6c3-4c5713764ffd",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/fiches-horaires-reseau-urbain-mio-ccmillaugrandscausses"
+},
+"le-bus-2-2-2": {
+"name": "Le Bus",
+"title": "Réseau urbain Le Bus",
+"city": "CC de Pont-Audemer / Val de Risle",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/82310/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/le-bus-pont-audemer-val-de-risle"
+},
+"maritime-de-martinique": {
+"name": "Martinique",
+"title": "Réseau maritime de Martinique",
+"city": "Martinique",
+"area": [
+"region"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/39fc07d6-65b5-49f0-a5f2-d56757a8dd42",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/gtfs-du-reseau-maritime-de-martinique"
+},
+"europeen-ave-renfe": {
+"name": "Européen AVE Renfe",
+"title": "Réseau européen AVE Renfe",
+"city": "France",
+"area": [
+"pays"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/eae0fa46-087a-4018-ada9-d8add124e635",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/db9c89fb-c174-4c38-b861-5c51cc1d8856",
+"src": "https://transport.data.gouv.fr/datasets/horaires-ave-espagne-france"
+},
+"maritime-gironde-33": {
+"name": "- Gironde (33)",
+"title": "Réseau maritime - Gironde (33)",
+"city": "Gironde",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/c3f86058-0be8-41f2-aa98-82d3a5625f22",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-naq-bac-nva-m"
+},
+"la-navette-gaillac": {
+"name": "La Navette (Gaillac)",
+"title": "Réseau urbain La Navette (Gaillac)",
+"city": "Gaillac",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/d0579894-2c5a-42c1-a44c-d550af952f49",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-urbain-la-navette-commune-de-gaillac"
+},
+"maritime-corsica-linea": {
+"name": "Corsica Linea",
+"title": "Réseau maritime Corsica Linea",
+"city": "Corse",
+"area": [
+"region"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/13977931-86ae-4b7a-9598-d222333a5fbd",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/programme-des-rotations-corsica-linea"
+},
+"navette-pontorson-le-mont-saint-michel": {
+"name": "Navette Pontorson – Le Mont-Saint-Michel",
+"title": "Navette Pontorson – Le Mont-Saint-Michel",
+"city": "Le Mont-Saint-Michel",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/7e0312ef-a6e0-41ab-a75a-2b782a4b1d6b",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/navette-pontorson-le-mont-saint-michel",
+"alt": [
+"Beauvoir",
+"Le Mont-Saint-Michel",
+"Pontorson"
+]
+},
+"bastibus": {
+"name": "Bastibus",
+"title": "Réseau urbain Bastibus",
+"city": "Villefranche-de-Rouergue",
+"area": [
+"commune"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84234/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-urbain-villefranche-de-rouergue"
+},
+"maritime-transmanche-ferries": {
+"name": "Transmanche Ferries",
+"title": "Réseau maritime Transmanche Ferries",
+"city": "Dieppe",
+"area": [
+"commune"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/83981/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/transmanche-ferries"
+},
+"red": {
+"name": "RED",
+"title": "Réseau urbain RED",
+"city": "CA Redon Agglomération",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/83512/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-urbain-de-redon-agglomeration"
+},
+"villeo-retzeo": {
+"name": "Villéo Retzéo",
+"title": "Réseau urbain Villéo Retzéo",
+"city": "CC Retz en Valois",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/39bc7064-a387-4eef-9fb3-05fe3c00782b",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/donnees-de-mobilite"
+},
+"navette-estivale-cvl-mobilite": {
+"name": "Navette estivale CVL Mobilité",
+"title": "Navette estivale CVL Mobilité",
+"city": "Chinon",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/af410692-57e7-44a3-b888-4efccdf77014",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-cvlmobilite-plan-de-transport-theorique-la-navette-lete-a-chinon-format-gtfs"
+},
+"obc": {
+"name": "OBC",
+"title": "Réseau urbain OBC",
+"city": "CC de l'Oust à Brocéliande",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84235/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/ligne-de-bus-obc"
+},
+"respire": {
+"name": "RespiRé",
+"title": "Réseau urbain RespiRé",
+"city": "CC de l'Ile de Ré",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/f167d4d3-cd32-475b-a12f-0403534679e5",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/89a81efd-a8f4-4558-9988-9e7c56ab15fe",
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-respire-ile-de-re-gtfs-gtfs-rt"
+},
+"vai-embrun": {
+"name": "Vaï Embrun",
+"title": "Réseau urbain Vaï Embrun",
+"city": "CC Serre-Ponçon",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/00729dab-d14a-4412-90f3-1985738bd1e4",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-vai-embrun"
+},
+"hivernal-cavalaire": {
+"name": "Hivernal Cavalaire",
+"title": "Réseau urbain hivernal Cavalaire",
+"city": "Cavalaire-sur-Mer",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/7c5842e2-0420-4e60-a2ad-90c077c03505",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/golfe-de-saint-tropez-donnees-mobilite-tc-cavalaire-sur-mer-hiver"
+},
+"navette-estivale-corte-vallee-de-la-rest": {
+"name": "Navette estivale Corté - vallée de la Restonica",
+"title": "Navette estivale Corté - vallée de la Restonica",
+"city": "CC du Centre Corse",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/ba2f71b6-23ca-4b51-b319-bd9576933d94",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/gtfs-transport-via-corsica-corte-a-la-vallee-de-la-restonica-ligne-c13"
+},
+"lislenbus": {
+"name": "Lislenbus",
+"title": "Réseau urbain Lislenbus",
+"city": "Lisle-sur-Tarn",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/75f3dd86-0840-445a-92a6-b329bdc61e0c",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-urbain-lislenbus-commune-de-lisle-sur-tarn"
+},
+"navettes-hivernales-des-2-alpes": {
+"name": "Navettes hivernales des 2 Alpes",
+"title": "Navettes hivernales des 2 Alpes",
+"city": "Les Deux Alpes",
+"area": [
+"commune"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/83813/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/gtfs-les-2alpes-saison-hiver-2025-2026"
+},
+"totoom": {
+"name": "TOTOOM",
+"title": "Réseau interurbain TOTOOM",
+"city": "Montpellier Méditerranée Métropole",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84275/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/lignes-totoom-1",
+"alt": [
+"CA Hérault-Méditerranée",
+"CA Sète Agglopôle Méditerranée",
+"CA du Pays de l'Or",
+"Montpellier Méditerranée Métropole"
+]
+},
+"libellule": {
+"name": "Libellule",
+"title": "Réseau urbain et TAD zonal Libellule",
+"city": "CC du Liancourtois",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/e61f439a-2321-4ce2-bda7-89be2494304f",
+"rt": "https://www.data.gouv.fr/api/1/datasets/r/9262efc1-5835-4877-9329-57d369c5763d",
+"src": "https://transport.data.gouv.fr/datasets/donnees-theoriques-et-temps-reel-du-reseau-le-libellule-communaute-du-liancourtois-la-vallee-doree"
+},
+"navette-ariane": {
+"name": "- Navette Ariane",
+"title": "Réseau urbain - Navette Ariane",
+"city": "CC Aunis Atlantique",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/83982/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/offre-de-transport-cc-aunis-atlantique"
+},
+"tum-2": {
+"name": "TUM",
+"title": "Réseau urbain TUM",
+"city": "CC de l'Argonne Champenoise",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/80471/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/fr-200052264-t0030-0000-1"
+},
+"mont-bus": {
+"name": "Mont'bus",
+"title": "Réseau urbain Mont'bus",
+"city": "CC Coeur de Savoie",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84276/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/montbus-transport-bus-montmelian"
+},
+"navettes-estivales-reseau-digo": {
+"name": "Navettes estivales réseau DIGO",
+"title": "Navettes estivales réseau DIGO",
+"city": "CC Côte Landes Nature",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/cf6776cd-2f5c-4190-8bec-3578d7f87372",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-digo-cote-landes-nature"
+},
+"navettes-nav-esapce": {
+"name": "Navettes Nav'esapce",
+"title": "Navettes Nav'esapce",
+"city": "CC Coeur de Savoie",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84277/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/navespace"
+},
+"ca-roule": {
+"name": "Ça roule",
+"title": "Réseau urbain ça roule",
+"city": "CC du Grand Autunois Morvan",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/b587f007-9b23-4b2a-a609-9368a4c2c490",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/arrets-lignes-regulieres-reseau-de-transport-urbain-a-autun"
+},
+"plm": {
+"name": "PLM",
+"title": "Réseau urbain PLM",
+"city": "CC Le Grand Charolais",
+"area": [
+"epci"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84245/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/bus-plm"
+},
+"telepherique-du-mont-faron": {
+"name": "Téléphérique du Mont Faron",
+"title": "Téléphérique du Mont Faron",
+"city": "Toulon",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/9bba0b17-2863-4ee1-a38a-c7a445f820d1",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/telepherique-du-mont-faron"
+},
+"navettes-estivales-la-rosiere": {
+"name": "Navettes estivales La Rosière",
+"title": "Navettes estivales La Rosière",
+"city": "Bourg-Saint-Maurice",
+"area": [
+"commune"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84133/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/navettes-la-rosiere"
+},
+"tad-reseau-tiva": {
+"name": "TAD réseau Tiva",
+"title": "TAD réseau Tiva",
+"city": "CC Intercom de la Vire au Noireau",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/f3b71a3c-85fd-48c3-a3f0-30b988a4e64b",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/tiva-a-la-demande-service-de-transport-a-la-demande-intercom-de-la-vire-au-noireau-2025-2026"
+},
+"navette-saisonniere-col-ette": {
+"name": "Navette saisonnière Col'ette",
+"title": "Navette saisonnière Col'ette",
+"city": "Hauteluce",
+"area": [
+"commune"
+],
+"gtfs": "https://transport.data.gouv.fr/resources/84203/download",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/navette-colette-savoie-les-saisies"
+},
+"telepherique-de-la-bastille-bulles-de-gr": {
+"name": "Téléphérique de la Bastille - Bulles de Grenoble",
+"title": "Téléphérique de la Bastille - Bulles de Grenoble",
+"city": "Grenoble",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/3ec51aee-ce59-4608-b721-faae118ea1d0",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-du-telepherique-de-la-bastille"
+},
+"navette-estivale-iles-des-glenan": {
+"name": "Navette estivale îles des Glénan",
+"title": "Navette estivale îles des Glénan",
+"city": "Concarneau",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/c6be5123-466e-4989-8843-549bee825750",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/navette-a-la-voile-pour-les-glenan",
+"alt": [
+"Concarneau",
+"Fouesnant"
+]
+},
+"telecabine-eau-d-olle-express-allemond-o": {
+"name": "Télécabine Eau d'Olle Express (Allemond - Oz)",
+"title": "Télécabine Eau d'Olle Express (Allemond - Oz)",
+"city": "Allemond",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/179d2464-f007-4005-976e-a7fd98eabcfe",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/telecabine-eau-dolle-express-allemond-oz",
+"alt": [
+"Allemond",
+"Oz"
+]
+},
+"programme-des-vols-finist-air": {
+"name": "Programme des vols Finist'Air",
+"title": "Programme des vols Finist'Air",
+"city": "Finistère",
+"area": [
+"departement"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/073a6dbc-2bef-4088-afe4-68a29dd4e796",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/finistair-region-bretagne"
+},
+"navettes-hivernales-de-l-alpe-d-huez": {
+"name": "Navettes hivernales de l'Alpe d'Huez",
+"title": "Navettes hivernales de l'Alpe d'Huez",
+"city": "Huez",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/c3fa69f0-f8b1-4324-be67-be72baf80ceb",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-des-navettes-hivernales-de-lalpe-dhuez-gtfs-gtfs-rt"
+},
+"navettes-saisonnieres-valmobus": {
+"name": "Navettes saisonnières Valmobus",
+"title": "Navettes saisonnières Valmobus",
+"city": "Les Avanchers-Valmorel",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/300108a3-f8c1-4bc8-873e-f1243d49716b",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-de-la-station-de-ski-valmorel-gtfs-gtfs-rt"
+},
+"telepherique-papang": {
+"name": "Téléphérique Papang",
+"title": "Téléphérique Papang",
+"city": "CA Intercommunale du Nord de la Réunion (CINOR)",
+"area": [
+"epci"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/fa444b8c-c1c6-4015-ac50-f748c12764d3",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/citalis-telepherique-papang"
+},
+"taneo": {
+"name": "Tanéo",
+"title": "Réseau urbain Tanéo",
+"city": "Dumbéa",
+"area": [
+"commune"
+],
+"gtfs": "https://www.data.gouv.fr/api/1/datasets/r/c1cd3c14-f18e-471d-9184-85ab668b8910",
+"rt": null,
+"src": "https://transport.data.gouv.fr/datasets/reseau-taneo-1",
+"alt": [
+"Dumbéa",
+"Le Mont-Dore",
+"Nouméa",
+"Païta"
+]
+}
+}
