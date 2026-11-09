@@ -92,9 +92,61 @@ def build(key):
         stops[r['stop_id']] = (r['stop_name'].strip(), r.get('parent_station', '').strip(),
                                r.get('location_type', '') or '0', r.get('stop_lat'), r.get('stop_lon'))
 
+    board = bool(NETS[key].get('board'))
+    gname = {}
+
     def group(sid):
-        p = stops.get(sid, ('', '', '0', 0, 0))[1]
-        return p if p and p in stops else sid
+        # Regroupement des quais : par station (parent_station), mais en gardant le NOM DU QUAI quand il
+        # diffère du nom de la station. Les noms de station sont parfois périmés ou regroupent plusieurs
+        # arrêts distincts (Stan : station « Gare de Nancy » = « Gare - Saint-Léon » + « Gare - Pierre Semard »,
+        # « Saint-Georges » = « Deux Rives - O. de Gouges »). Gares SNCF (board) : regroupement par station inchangé.
+        s = stops.get(sid)
+        if not s:
+            return sid
+        p = s[1]
+        if not (p and p in stops):
+            return sid
+        if board or s[0].strip().lower() == stops[p][0].strip().lower():
+            return p
+        k = p + '|' + s[0].strip().lower()
+        if k not in gname:
+            gname[k] = (s[0], '', '0', s[3], s[4])
+        return k
+
+    def info(g):
+        return gname.get(g) or stops.get(g, (g, '', '0', 0, 0))
+
+    # Arrêts de même nom à moins de 200 m regroupés (ex. Stan : quai d'arrivée et quai de départ du terminus
+    # « Vandoeuvre Brabois - H. », rattachés à deux stations différentes). Gares SNCF : inchangé.
+    canon = {}
+    if not board:
+        import math
+        near = collections.defaultdict(list)
+        for sid in sorted(stops):
+            if (stops[sid][2] or '0') not in ('0', ''):
+                continue
+            g = group(sid)
+            if g in canon:
+                continue
+            nm, _, _, la, lo = info(g)
+            try:
+                la, lo = float(la), float(lo)
+            except (TypeError, ValueError):
+                canon[g] = g
+                continue
+            k = nm.strip().lower()
+            for (g2, la2, lo2) in near[k]:
+                if math.hypot((la - la2) * 111000, (lo - lo2) * 111000 * math.cos(math.radians(la))) < 200:
+                    canon[g] = g2
+                    break
+            else:
+                canon[g] = g
+                near[k].append((g, la, lo))
+    _group = group
+
+    def group(sid):
+        g = _group(sid)
+        return canon.get(g, g)
 
     # Passe 1 : dernier arrêt de chaque course (terminus)
     last, first = {}, {}
@@ -106,7 +158,6 @@ def build(key):
                 last[t] = (q, r['stop_id'])
             if t not in first or q < first[t][0]:
                 first[t] = (q, r['stop_id'])
-    board = bool(NETS[key].get('board'))
     has_rt = bool(NETS[key].get('rt'))
 
     # Passe 2 : départs par station
@@ -143,7 +194,7 @@ def build(key):
             row += (tsec(arr), head_ix[stops.get(first[t][1], ('',))[0]], kind, num)
         per[group(r['stop_id'])].append(row)
 
-    order = sorted(per.items(), key=lambda x: stops.get(x[0], ('',))[0])
+    order = sorted(per.items(), key=lambda x: info(x[0])[0])
     gix0 = {g: i for i, (g, _) in enumerate(order)}
     tfull = {}
     if board:  # gares desservies avant / après, pour l'affichage « via »
@@ -160,7 +211,7 @@ def build(key):
                 nxt = [v for v in gs[j + 1:-1] if v >= 0][:4]
                 prv = [v for v in gs[max(1, j - 3):j] if v >= 0]
                 lst[k] = x + (nxt, prv)
-        name, _, _, lat, lon = stops.get(g, (g, '', '0', 0, 0))
+        name, _, _, lat, lon = info(g)
         lst.sort(key=lambda x: x[3])
         sids = sorted({x[6] for x in lst}); six = {s: j for j, s in enumerate(sids)}
         rset = sorted({x[0] for x in lst}, key=lambda k: routes[k][0])
@@ -177,7 +228,7 @@ def build(key):
             ll = [0, 0]
         stations.append([name, ll[0], ll[1], rset])
 
-    gix = {g: i for i, (g, _) in enumerate(sorted(per.items(), key=lambda x: stops.get(x[0], ('',))[0]))}
+    gix = {g: i for i, (g, _) in enumerate(sorted(per.items(), key=lambda x: info(x[0])[0]))}
     pc = collections.defaultdict(collections.Counter)
     for t, lst in tseq.items():
         lst.sort()
