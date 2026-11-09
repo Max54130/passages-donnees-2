@@ -89,7 +89,8 @@ def build(key):
 
     stops = {}
     for r in rows(z, 'stops.txt'):
-        stops[r['stop_id']] = (r['stop_name'].strip(), r.get('parent_station', '').strip(),
+        stops[r['stop_id']] = (' '.join(r['stop_name'].split()),  # espaces en double retirés (Stan « Seichamps  Ecoquartier »)
+                                r.get('parent_station', '').strip(),
                                r.get('location_type', '') or '0', r.get('stop_lat'), r.get('stop_lon'))
 
     board = bool(NETS[key].get('board'))
